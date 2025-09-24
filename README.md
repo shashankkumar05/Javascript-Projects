@@ -1,2 +1,6 @@
 # Javascript-Projects
-Basic Projects....
+This repository contains a collection of basic JavaScript projects.  
+Each project is designed to practice core programming concepts.  
+The code is simple, beginner-friendly, and easy to understand.  
+You can use these projects to strengthen problem-solving skills.  
+Feel free to explore, learn, and improve upon the examples provided.
